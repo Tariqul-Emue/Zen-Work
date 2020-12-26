@@ -1,0 +1,178 @@
+
+
+
+@media (min-width: 1200px){
+	.container{
+	    max-width: 1410px;
+	}
+	.vh_800 {
+	    min-height: 545px;
+	}
+}
+
+@media (max-width: 1500px){
+
+	.service_area {
+	    padding: 140px 0;
+	}
+}
+
+@media (max-width: 1200px){
+			.vh_800 {
+	    min-height: 467px;
+	}
+	.banner_seaction h1 {
+	    font-size: 40px;
+	}
+
+	.service_area {
+	    padding: 80px 0;
+	}
+}
+
+
+@media (max-width: 992px){
+		.banner_seaction h1 {
+		max-width: 400px;
+	}
+	.banner_seaction {
+		background-color: #ffffff9e;
+		padding: 20px;
+	}
+
+	.service_area {
+	    padding: 70px 0;
+	}
+
+	.service h2 {
+		font-size: 29px;
+	}
+	.service a {
+		font-size: 14px;
+	}
+	.service {
+		padding: 35px;
+
+	}
+
+
+}
+
+
+
+@media (max-width:767px){
+	.vh_800 {
+		min-height: 400px;
+	}
+	.logo img {
+		max-width: 150px;
+	}
+	.searchbar:hover > .search_input {
+		width: 200px;
+	}
+	p {
+		font-size: 17px;
+	}
+	.banner_seaction h1 {
+	    font-size: 36px;
+	}
+	.form-inline input {
+		padding: 23px 52px;
+	}
+	.btn-custom {
+		padding: 9px 20px;
+	}
+	h6{
+		margin-bottom: 15px
+	}
+	.service_area {
+	    padding: 30px 0;
+	}
+
+	.job_area{
+		text-align: center;
+	} 
+	.job_area h2 {
+	    font-size: 33px;
+
+	    width: 400px;
+	    margin: auto;
+	}
+
+	.job_area p {
+	    font-size: 16px;
+	    font-weight: 100;
+	    width: 400px;
+	    margin: auto;
+	    margin-bottom: 15px;
+	 }
+}
+
+
+@media (max-width: 575px){
+	
+
+	p {
+		font-size: 16px;
+	}
+	.service h2 {
+		font-size: 26px;
+	}
+
+	.service {
+		padding: 25px;
+	}
+	.service_area {
+		padding: 30px 0;
+   }
+
+	.form-inline{
+		justify-content: center;
+	}
+   .banner_seaction h1 {
+    font-size: 34px;
+    max-width: 307px;
+    margin: auto;
+	}
+	.banner_seaction{
+		text-align: center;
+	}
+		
+	.service a {
+		font-size: 14px;
+	}
+	.service_area {
+	    padding: 30px 0;
+	}
+}
+
+@media (max-width: 510px){
+	.searchbar{
+		display: none
+	}
+
+	.banner_seaction h1 {
+	    font-size: 27px;
+	    max-width: 250px;
+	}
+	p{
+		font-size: 14px
+		}
+
+	.form-inline input {
+		padding: 20px 35px;
+	}
+	.btn-custom {
+		padding: 6px 18px;
+	}
+	.h6{
+
+		font-size: 15px
+	}
+
+	.service_area {
+	    padding: 20px 0;
+	}
+
+
+}
